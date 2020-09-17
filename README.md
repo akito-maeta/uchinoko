@@ -1,24 +1,30 @@
-# README
+# うちのこ
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## サイト概要
+ペット好きの方々に向けたSNSをイメージしています。  
+うちの子の可愛いところ見て！という飼い主さんの投稿にいいね！やコメントをつけたりして、
+飼い主さん同士やペットは飼えないけど動物を見て癒されたい・触れ合いたいという方と交流するサイトを目標にしています。
 
-Things you may want to cover:
+### サイトテーマ
+あくまで癒しを求めることを最優先に考えられたらと思っています。
 
-* Ruby version
+### テーマを選んだ理由
+自分自身が動物好きということもあり、ペットにまつわるWebアプリケーションを作成して見たいと思ったためです。
 
-* System dependencies
+### ターゲットユーザ
+動物による癒しを求めている方々に向けて。
 
-* Configuration
+### 主な利用シーン
+趣味・ちょっと疲れた時の休憩時に。
 
-* Database creation
+## 設計書
 
-* Database initialization
+### 機能一覧
+https://docs.google.com/spreadsheets/d/1GJfXoINDtIVL1wpW6FELMQno8CBXim-ITqG2oLiwIS4/edit#gid=0
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## 開発環境
+- OS：mac(High Sierra)
+- 言語：HTML,CSS,JavaScript,Ruby,SQL
+- フレームワーク：Ruby on Rails
+- JSライブラリ：jQuery
+- 仮想環境：Vagrant,VirtualBox
